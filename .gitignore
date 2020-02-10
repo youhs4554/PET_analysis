@@ -1,0 +1,4 @@
+# pytorch ckpt
+*.pt
+# python tmp file
+*.pyc
